@@ -1,6 +1,6 @@
 ''' Evaluates the effect of the condition number of the linear operator of COMMIT on the fit.
 Multiple different density maps were created by adding random noise. Then, the fit was performed
-keeping the same tractogram and chaging the density map to fit to.
+keeping the same tractogram and chaging the density map to fit to. (Testing...)
 '''
 from dipy.io.stateful_tractogram import StatefulTractogram
 from dipy.io.streamline import load_tractogram, save_tractogram
